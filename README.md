@@ -1,16 +1,12 @@
 # sketchup-class-intro
 An introduction to 3d modeling with SketchUp; course materials
 
-
-## Day 1
-
-~3 hours
-
+Editable doc: https://docs.google.com/document/d/1_FXVZu_G9MSZytMUvDIS1DZgSC1qqdBc_vuP3rxwa3I/edit
 
 ### Setup
 
 1. Open https://app.sketchup.com/ and sign in
-2. Go to https://github.com/jywarren/sketchup-class-intro and download everything
+2. Go to https://github.com/jywarren/sketchup-class-intro or https://bit.ly/2rUvoYR and download everything
     * you can use this direct link to the .zip file: https://github.com/jywarren/sketchup-class-intro/archive/main.zip 
 
 
@@ -58,13 +54,6 @@ Open 00-navigation.skp
 Start with a countertop/sink
 
 
-****
-
-## Day 2
-
-~3 hours
-
-
 ### Tricks
 
 1. Close a polygon by overdrawing a line
@@ -80,20 +69,22 @@ Start with a countertop/sink
 4. Isolation: a smaller workspace in a complex model: a book?
 5. Components: editing inside/outside, scaling, stretching, making unique
 
+
+### Curved surfaces: arcs, circles, imperfections
+
+1. Draw a spoon
+2. Follow-me tool
+
+
 ### Project time! Make a model of your bicycle or car
 
 
 
 ### Advanced
 
-1. Follow-me tool
-2. Textures: eyedrop, paint on like surfaces, transparency
-3. Flip surfaces
-4. Curved surfaces: arcs, circles, imperfections
-5. Light and shadow
-6. Line weight and style
-7. Exporting
-
-
-
-
+1. Textures: eyedrop, paint on like surfaces, transparency
+2. Flip surfaces
+3. Light and shadow
+4. Line weight and style
+5. Exporting
+6. Cross-sections (inside a room)
