@@ -88,3 +88,8 @@ Start with a countertop/sink
 4. Line weight and style
 5. Exporting
 6. Cross-sections (inside a room)
+
+
+### Extra activity
+
+Make a level from Mario, or a garden
